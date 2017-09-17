@@ -28,9 +28,9 @@
 MIT
 
 ## Screen Shots
-!(https://github.com/thesoncriel/d2mod/blob/master/screenshots/d2mod_scr000.jpg)
-!(https://github.com/thesoncriel/d2mod/blob/master/screenshots/d2mod_scr001.jpg)
-!(https://github.com/thesoncriel/d2mod/blob/master/screenshots/d2mod_scr002.jpg)
-!(https://github.com/thesoncriel/d2mod/blob/master/screenshots/d2mod_scr003.jpg)
-!(https://github.com/thesoncriel/d2mod/blob/master/screenshots/d2mod_scr004.jpg)
-!(https://github.com/thesoncriel/d2mod/blob/master/screenshots/d2mod_scr005.jpg)
+![](https://github.com/thesoncriel/d2mod/blob/master/screenshots/d2mod_scr000.jpg)
+![](https://github.com/thesoncriel/d2mod/blob/master/screenshots/d2mod_scr001.jpg)
+![](https://github.com/thesoncriel/d2mod/blob/master/screenshots/d2mod_scr002.jpg)
+![](https://github.com/thesoncriel/d2mod/blob/master/screenshots/d2mod_scr003.jpg)
+![](https://github.com/thesoncriel/d2mod/blob/master/screenshots/d2mod_scr004.jpg)
+![](https://github.com/thesoncriel/d2mod/blob/master/screenshots/d2mod_scr005.jpg)
